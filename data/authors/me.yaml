@@ -51,7 +51,6 @@ education:
     start: July, 2019
     end: December, 2025
     summary: |
-    This thesis investigates message identification over noiseless and noisy permutation channels. For noiseless channels, we establish achievability alongside soft and strong converse bounds. We extend these findings to multi-block coding, deterministic encoding, and causal feedback scenarios. For noisy permutation channels—a permutation followed by a discrete memoryless channel—we derive the scaling limits of identifiable messages based on the transition probability matrix rank. Utilizing channel resolvability and a novel deterministic composition quantization scheme, we prove weak and strong converses, establishing tight bounds for both randomized and deterministic encoding paradigms.
     button:
       text: Download dissertation
       url: /resume.pdf
