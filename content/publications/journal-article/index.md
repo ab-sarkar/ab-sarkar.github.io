@@ -4,7 +4,7 @@ authors:
 - me
 - Bikash Kumar Dey
 math: true
-doi:"10.1109/TIT.2025.3582862"
+doi: "10.1109/TIT.2025.3582862"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-09-01T00:00:00Z"
