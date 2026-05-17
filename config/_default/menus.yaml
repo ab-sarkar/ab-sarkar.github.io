@@ -25,6 +25,9 @@ main:
   - name: Experience
     url: experience/
     weight: 20
+  - name: Recent & Upcoming Talks
+    url: talks/
+    weight: 30
   #- name: Projects
   #  url: projects/
   #  weight: 30
