@@ -3,10 +3,8 @@ title: "Identification Over Permutation Channels"
 authors:
 - me
 - Bikash Kumar Dey
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 math: true
+doi:"10.1109/TIT.2025.3582862"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-09-01T00:00:00Z"
