@@ -1,5 +1,5 @@
 schema: hugoblox/author/v1
-slug: me
+slug: avatar
 is_owner: true
 name:
   display: Abhishek Sarkar, PhD
@@ -26,7 +26,7 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:ab.sarkar93@gmail.com
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/abhishek-sarkar-a08b681b0/
@@ -52,31 +52,26 @@ education:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: M.Tech Communication & Signal Processing Engineering
+    institution: Indian Institute of Engineering Science & Technology, Shibpur
+    start: July 2016
+    end: July 2018
+  - degree: B.Tech Electronics & Communication Engineering
+    institution: IEM Kolkata
+    start: July 2011
+    end: July 2015
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Project Research Scientist
+    org: IIT Bombay
+    start: February 2026
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      need to write...
+  - role: Assistant Professor
+    org: IEM Kolkata
+    start: July 2018
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      need to write...
 
 skills:
   - name: Technical Skills
