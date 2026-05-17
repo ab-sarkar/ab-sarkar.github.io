@@ -16,7 +16,7 @@ status:
 role: Research Scientist
 bio: |
   Abhishek Sarkar is a researcher specializing in Information Theory, 
-  having earned his Ph.D. from the Indian Institute of Technology (IIT) Bombay in 2026 under the supervision of 
+  having earned his Ph.D. from the [Electrical Engineering department of the Indian Institute of Technology (IIT) Bombay](https://www.ee.iitb.ac.in/web/index.php) in 2026 under the supervision of 
   [Prof. Bikash Kumar Dey](https://www.ee.iitb.ac.in/wiki/faculty/bikash) and [Prof. Sibi Raj B. Pillai](https://www.ee.iitb.ac.in/~bsraj/). 
   His research explores the fundamental limits of communication systems,
   with a specific emphasis on DNA storage channels and wireless networks. 
@@ -47,10 +47,6 @@ education:
     start: July, 2019
     end: December, 2025
     summary: |
-    button:
-#      text: Download dissertation
-#      url: /resume.pdf
-#      icon: hero/arrow-down-tray
   - degree: M.Tech in Communication & Signal Processing Engineering
     institution: Indian Institute of Engineering Science & Technology, Shibpur
     start: July 2016
