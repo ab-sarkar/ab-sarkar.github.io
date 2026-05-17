@@ -6,7 +6,7 @@ authors:
 math: true
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026"
+publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
