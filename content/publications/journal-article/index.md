@@ -29,7 +29,7 @@ featured: false
 
 hugoblox:
   ids:
-    arXiv:2405.09309v3
+    arxiv: "2405.09309v3"
 
 links:
   - type: pdf
