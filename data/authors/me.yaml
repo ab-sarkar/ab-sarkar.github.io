@@ -41,7 +41,6 @@ links:
 
 interests:
   - Information Theory
-  - Message Identification
   - Coding Theory
   - Wireless Communication
   - DNA Storage Channels
@@ -52,7 +51,6 @@ education:
     start: July, 2019
     end: December, 2025
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     button:
       text: Download dissertation
       url: /resume.pdf
@@ -70,43 +68,34 @@ experience:
   - role: Project Research Scientist
     org: IIT Bombay
     start: February 2026
-    summary: |
-      need to write...
+    summary: We are investigating reliable communication over Gaussian permutation channels.
   - role: Assistant Professor
     org: IEM Kolkata
     start: July 2018
-    summary: |
-      need to write...
+    summary: 
 
 skills:
   - name: Technical Skills
     items:
       - label: Python
         level: 5
-      - label: Machine Learning
+      - label: Latex
         level: 5
-      - label: Cloud Computing
-        level: 4
   - name: Research & Communication
     items:
       - label: Academic Writing
         level: 5
       - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+        level: 5
 
 languages:
   - name: English
     level: 5
-    label: Native
-  - name: Spanish
-    level: 4
     label: Fluent
+  - name: Bengali
+    level: 5
+    label: Native
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+  - title: TAship award from IIT Bombay
+
