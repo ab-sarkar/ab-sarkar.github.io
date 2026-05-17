@@ -1,9 +1,9 @@
 ---
 # To publish author profile pages, remove all the `build` and `cascade` settings below.
-build:
-  render: never
-cascade:
-  build:
-    render: never
-    list: always
+title: Abhishek Sarkar
+role: Researcher in Information Theory
+superuser: true
+organizations:
+  - name: IIT Bombay
+    url: ''
 ---
