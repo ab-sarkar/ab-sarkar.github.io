@@ -8,7 +8,7 @@ math: true
 doi: "10.1109/SPCOM55316.2022.9840799"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-07-01T00:00:00Z"
+publishDate: "2022-08-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
