@@ -39,6 +39,28 @@ links:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-6828-4674
 
+
+
+education:
+  - degree: PhD in Information Theory
+    institution: Indian Institute of Technology Bombay
+    start: July, 2019
+    end: December, 2025
+    summary: |
+    button:
+#      text: Download dissertation
+#      url: /resume.pdf
+#      icon: hero/arrow-down-tray
+  - degree: M.Tech in Communication & Signal Processing Engineering
+    institution: Indian Institute of Engineering Science & Technology, Shibpur
+    start: July 2016
+    end: July 2018
+  - degree: B.Tech in Electronics & Communication Engineering
+    institution: IEM Kolkata
+    start: July 2011
+    end: July 2015
+
+
 interests:
   - Information Theory
   - Coding Theory
