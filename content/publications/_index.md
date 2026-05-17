@@ -1,12 +1,35 @@
 ---
 title: Publications
-cms_exclude: true
+type: landing
 
-# View.
-view: citation
+sections:
+  - block: collection
+    content:
+      title: "Journal"
+      filters:
+        folders:
+          - publications
+        publication_type: "article-journal"
+    design:
+      view: citation
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+  - block: collection
+    content:
+      title: "Conference"
+      filters:
+        folders:
+          - publications
+        publication_type: "paper-conference"
+    design:
+      view: citation
+
+  - block: collection
+    content:
+      title: "Submitted"
+      filters:
+        folders:
+          - publications
+        publication_type: "manuscript"
+    design:
+      view: citation
 ---
