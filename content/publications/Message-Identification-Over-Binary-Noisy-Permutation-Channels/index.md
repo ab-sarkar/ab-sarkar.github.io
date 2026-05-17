@@ -7,7 +7,7 @@ math: true
 doi: "10.1109/ISIT63088.2025.11195449"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-06-22T00:00:00Z"
+publishDate: "2025-10-20T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
