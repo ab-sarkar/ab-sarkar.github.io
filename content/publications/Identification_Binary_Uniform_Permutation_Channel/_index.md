@@ -21,9 +21,6 @@ publication_short:
 abstract: |
   We study message identification over the binary uniform permutation channels. For DMCs, the number of identifiable messages grows doubly exponentially. Identification capacity, the maximum second-order exponent, is known to be the same as the Shannon capacity of a DMC. We consider a binary uniform permutation channel where the transmitted vector is permuted by a permutation chosen uniformly at random. Permutation channels support reliable communication of only polynomially many messages. While this implies a zero second-order identification rate, we prove a soft converse result showing that even non-zero first-order identification rates are not achievable with a power-law decay of error probability for identification over binary uniform permutation channels. To prove the converse, we use a sequence of steps to construct a new identification code with a simpler structure and then use a lower bound on the normalized maximum pairwise intersection of a set system on ${0,…,n}$.
 
-tags:
-- Source Themes
-featured: false
 
 
 links:
