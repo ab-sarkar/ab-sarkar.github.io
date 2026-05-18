@@ -38,7 +38,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research explores fundamental information-theoretic questions for physical systems, spanning both the classical and quantum regimes. I try to provide simple answers to questions related to communication, storage and computations over such physical systems, employing the universal language, mathematics. Please reach out to collaborate 😃
+        My research explores fundamental information-theoretic questions for physical systems, spanning both the classical and quantum regimes. I try to provide simple answers to questions related to communication, storage and computations over such physical systems, employing the universal language, mathematics. Please reach out to collaborate at ab.sarkar@iitb.ac.in, ab.sarkar93@gmail.com 😃
     design:
       columns: '1'
 #  - block: collection
