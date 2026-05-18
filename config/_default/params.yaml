@@ -114,6 +114,8 @@ hugoblox:
     language_switcher: false
     # Custom footer text (HTML supported)
     text: ""
+    # Hide the 'Made with Hugo Blox' link
+    powered_by: false
 
   # ────────────────────────────────────────────────────────────────────────────
   # COPYRIGHT
@@ -121,7 +123,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {Abhishek Sarkar}. This work is licensed under {license}"
+    notice: "© {year} Abhishek Sarkar. This work is licensed under {license}"
     license:
       type: cc # cc | custom
       allow_derivatives: false
