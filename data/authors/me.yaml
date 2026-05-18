@@ -33,9 +33,9 @@ affiliations:
     url: 
 
 links:
-  - icon: at-symbol
-    url: mailto:ab.sarkar93@gmail.com
-    label: E-mail Me
+  #- icon: at-symbol
+  #  url: mailto:ab.sarkar93@gmail.com
+  #  label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/abhishek-sarkar-a08b681b0/
   - icon: academicons/google-scholar
