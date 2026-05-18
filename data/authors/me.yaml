@@ -24,13 +24,15 @@ bio: |
   Outside of his academic research, he maintains active interests in trekking, traveling, and pencil sketching.
 
   <h3 style="display: flex; align-items: center; margin-top: 1.5rem; margin-bottom: 0.75rem;">
-  <span style="background-color: #007bff; color: white; width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 12px; font-size: 1rem; box-sizing: border-box; padding-bottom: 2px;">
+  <span style="background-color: #007bff; color: white; width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 12px; font-size: 1rem; line-height: 1; padding: 0;">
     {{< icon name="envelope" pack="fas" >}}
   </span>
   <span>Contact Details</span>
   </h3>
-  **Email:** [ab.sarkar@iitb.ac.in](mailto:ab.sarkar@iitb.ac.in)  
+
+  **Email:** [ab.sarkar@iitb.ac.in](mailto:ab.sarkar@iitb.ac.in)<br>
   **Alternate:** [ab.sarkar93@gmail.com](mailto:ab.sarkar93@gmail.com)
+ 
 
 affiliations:
   - name: IIT Bombay
