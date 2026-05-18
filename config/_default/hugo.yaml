@@ -66,3 +66,9 @@ sitemap:
 marketing:
   analytics:
     google_analytics: 'G-MXWL7Z39P4'
+
+
+
+params:
+  footer:
+    powered_by: false
