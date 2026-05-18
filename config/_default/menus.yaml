@@ -36,5 +36,5 @@ main:
     weight: 40
 
     - name: Projects
-    url: project/
+    url: projects/
     weight: 50
