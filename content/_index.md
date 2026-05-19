@@ -60,8 +60,9 @@ sections:
         * **Permutation Channels:** Message identification, initially introduced by JàJà and by Ahlswede and Dueck, focuses on verifying if a specific message was sent rather than decoding the data entirely. When applied to permutation channels—a framework, with its noisy variant formalized by Anuran Makur, studied to model systems like DNA data storage and packet-switched networks where the order of transmitted symbols is completely lost—this paradigm yields profound theoretical contributions. Typically, noiseless permutation channels have a zero Shannon capacity for reliable communication because only polynomially many distinct symbol compositions exist. However, utilizing message identification overcomes this bottleneck, allowing the identifiable message set to grow sub-exponentially, specifically as ‭$2^{\epsilon_n n^{q-1}}$‬. Furthermore, introducing block-wise feedback enables doubly exponential growth in message size, offering a highly efficient communication strategy for severely unordered environments.
 
          Please reach out to collaborate 😃
-    view: article-grid
-    columns: 2
+    design:
+      view: article-grid
+      columns: 2
 
   
 #  - block: collection
