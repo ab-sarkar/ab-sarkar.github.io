@@ -51,7 +51,7 @@ sections:
       title: 📚 My Research
       text: |
         <style>
-          #research .prose { max-width: 70% !important; }
+          #research .prose { max-width: 120% !important; }
         </style>
         My research explores fundamental information-theoretic questions for physical systems, spanning both the classical and quantum regimes. I try to provide simple answers to questions about communication, storage, and computation in such physical systems, employing the universal language of mathematics. 
 
