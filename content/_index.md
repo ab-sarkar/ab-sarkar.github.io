@@ -41,8 +41,7 @@ sections:
         My research explores fundamental information-theoretic questions for physical systems, spanning both the classical and quantum regimes. I try to provide simple answers to questions about communication, storage, and computation in such physical systems, employing the universal language of mathematics. 
 
   Please reach out to collaborate 😃
-
-  * **Message Identification:** 
+  **Message Identification:** 
     design:
       columns: '1'
 #  - block: collection
