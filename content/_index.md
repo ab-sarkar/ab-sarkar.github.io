@@ -4,6 +4,7 @@ title: ''
 summary: ''
 date: 2022-10-24
 type: landing
+math: true
 
 sections:
   - block: resume-biography-3
