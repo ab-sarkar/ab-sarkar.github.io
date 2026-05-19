@@ -33,17 +33,32 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+ # - block: markdown
+ #   content:
+ #     title: '📚 My Research'
+ #     subtitle: ''
+ #     text: |-
+ #       My research explores fundamental information-theoretic questions for physical systems, spanning both the classical and quantum regimes. I try to provide simple answers to questions about communication, storage, and computation in such physical systems, employing the universal language of mathematics. 
+#
+ # Please reach out to collaborate 😃
+ # **Message Identification:** 
+  #  design:
+  #    columns: '1'
+
   - block: markdown
+    id: research
     content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
+      title: 📚 My Research
+      text: |
         My research explores fundamental information-theoretic questions for physical systems, spanning both the classical and quantum regimes. I try to provide simple answers to questions about communication, storage, and computation in such physical systems, employing the universal language of mathematics. 
 
-  Please reach out to collaborate 😃
-  **Message Identification:** 
-    design:
-      columns: '1'
+        Please reach out to collaborate 😃
+
+        * **Message Identification:** Investigating the theoretical frameworks and fundamental limits of message identification over noisy channels. This involves developing robust communication and identification protocols, supported by rigorous achievability schemes and converse proofs.
+        * **Permutation Channels:** Exploring advanced models for permutation channels, focusing specifically on Gaussian and constraint dynamics. This work addresses the fundamental limits of communication systems with critical applications in emerging technologies like DNA storage channels and advanced wireless networks.
+
+
+  
 #  - block: collection
 #    id: papers
  #   content:
