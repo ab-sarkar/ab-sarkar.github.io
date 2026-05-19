@@ -52,10 +52,10 @@ sections:
       text: |
         My research explores fundamental information-theoretic questions for physical systems, spanning both the classical and quantum regimes. I try to provide simple answers to questions about communication, storage, and computation in such physical systems, employing the universal language of mathematics. 
 
-        Please reach out to collaborate 😃
-
-        * **Message Identification:** Investigating the theoretical frameworks and fundamental limits of message identification over noisy channels. This involves developing robust communication and identification protocols, supported by rigorous achievability schemes and converse proofs.
+        * **Message Identification:** Introduced by Rudolf Ahlswede and Gunter Dueck in 1989, message identification is a communication paradigm where the receiver does not need to decode the exact transmitted data. Instead, the receiver only performs a binary check to determine whether a specific, predetermined message of interest was sent or not. The significance of studying this process lies in its remarkable efficiency: it allows the number of possible messages to grow doubly exponentially with the channel block length, bypassing Shannon's traditional single exponential capacity limit. This revolutionary capability makes message identification highly valuable for large-scale applications like alerting systems, targeted advertising, and database search protocols where full data decoding is unnecessary.
         * **Permutation Channels:** Exploring advanced models for permutation channels, focusing specifically on Gaussian and constraint dynamics. This work addresses the fundamental limits of communication systems with critical applications in emerging technologies like DNA storage channels and advanced wireless networks.
+
+         Please reach out to collaborate 😃
 
 
   
