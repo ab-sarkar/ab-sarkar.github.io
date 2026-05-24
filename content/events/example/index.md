@@ -1,3 +1,3 @@
 ---
-text: ''Coming soon''
+text: "Coming soon"
 ---
