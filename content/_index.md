@@ -34,17 +34,6 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
- # - block: markdown
- #   content:
- #     title: '📚 My Research'
- #     subtitle: ''
- #     text: |-
- #       My research explores fundamental information-theoretic questions for physical systems, spanning both the classical and quantum regimes. I try to provide simple answers to questions about communication, storage, and computation in such physical systems, employing the universal language of mathematics. 
-#
- # Please reach out to collaborate 😃
- # **Message Identification:** 
-  #  design:
-  #    columns: '1'
 
   - block: markdown
     id: research
@@ -63,19 +52,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-
-  
-#  - block: collection
-#    id: papers
- #   content:
- #     title: Publications
- #     filters:
-  #      folders:
-  #        - publications
-  #      featured_only: true
- #   design:
-  #    view: article-grid
- #     columns: 2
   - block: collection
     content:
       title: Publications
@@ -86,17 +62,8 @@ sections:
         exclude_featured: false
     design:
       view: citation
- # - block: collection
- #   id: talks
- #   content:
- #     title: Recent & Upcoming Talks
- #     filters:
- #       folders:
-  #        - events
- #   design:
- #     view: card
 
- - block: collection
+  - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
