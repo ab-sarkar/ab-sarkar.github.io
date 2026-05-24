@@ -95,4 +95,10 @@ sections:
   #        - events
  #   design:
  #     view: card
+
+   - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      text: "Coming soon"
 ---
