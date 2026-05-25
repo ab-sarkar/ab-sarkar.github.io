@@ -12,7 +12,7 @@ cascade:
 
 sections:
   - block: markdown
-    id: courses
+    id: talks
     content:
       title: Talks
       text: |
