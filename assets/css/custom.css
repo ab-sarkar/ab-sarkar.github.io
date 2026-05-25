@@ -16,9 +16,11 @@ div[class*="prose"] {
     font-size: 0.95rem !important;
 }
 
-/* 3. Force Publication containers to break out of all invisible wrappers */
-.block-collection > div > div > div,
-.block-collection div[class*="max-w-"] {
-    max-width: 100% !important;
-    width: 100% !important;
+
+
+/* 3. Add bullet points to publication items */
+.pub-list-item {
+    display: list-item !important;
+    list-style-type: disc !important;
+    margin-left: 2rem !important;
 }
