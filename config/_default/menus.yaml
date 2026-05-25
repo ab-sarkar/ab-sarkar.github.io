@@ -35,6 +35,6 @@ main:
     url: courses/
     weight: 40
 
-  - name: News
-    url: news/
-    weight: 50
+  #- name: News
+  #  url: news/
+  #  weight: 50
