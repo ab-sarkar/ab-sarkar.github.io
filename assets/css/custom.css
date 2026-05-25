@@ -16,12 +16,9 @@ div[class*="prose"] {
     font-size: 0.95rem !important;
 }
 
-/* 3. Force Publication lists and citation views to stretch completely */
-.block-collection div[class*="max-w-"],
-.view-citation,
-.view-citation div,
-.stream-item {
+/* 3. Force Publication containers to break out of all invisible wrappers */
+.block-collection > div > div > div,
+.block-collection div[class*="max-w-"] {
     max-width: 100% !important;
+    width: 100% !important;
 }
-
-
