@@ -1,4 +1,7 @@
 /* Force all text blocks and bullet lists to stretch to full screen width */
-.prose {
-    max-width: none !important;
+.prose, 
+.max-w-prose, 
+.article-style,
+div[class*="prose"] {
+    max-width: 100% !important;
 }
