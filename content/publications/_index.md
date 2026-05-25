@@ -12,6 +12,8 @@ sections:
         publication_type: "article-journal"
     design:
       view: citation
+      columns: 1
+      css_class: "max-w-none"
 
   - block: collection
     content:
@@ -22,6 +24,8 @@ sections:
         publication_type: "paper-conference"
     design:
       view: citation
+      columns: 1
+      css_class: "max-w-none"
 
   - block: collection
     content:
@@ -32,4 +36,6 @@ sections:
         publication_type: "manuscript"
     design:
       view: citation
+      columns: 1
+      css_class: "max-w-none"
 ---
