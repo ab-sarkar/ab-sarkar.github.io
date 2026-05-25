@@ -1,7 +1,17 @@
-/* Force all text blocks and bullet lists to stretch to full screen width */
+/* 1. Force ALL text blocks to stretch to full screen width by default */
 .prose, 
 .max-w-prose, 
 .article-style,
 div[class*="prose"] {
     max-width: 100% !important;
+}
+
+/* 2. Target ONLY the "My Research" block to shrink it to 80%, center it, and reduce font size */
+#research .prose,
+#research .max-w-prose,
+#research .article-style {
+    max-width: 80% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    font-size: 0.8rem !important;
 }
