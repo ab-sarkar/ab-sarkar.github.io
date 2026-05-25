@@ -13,7 +13,7 @@ div[class*="prose"] {
     max-width: 80% !important;
     margin-left: auto !important;
     margin-right: auto !important;
-    font-size: 0.9rem !important;
+    font-size: 0.95rem !important;
 }
 
 /* 3. Force Publication lists and citation views to stretch completely */
