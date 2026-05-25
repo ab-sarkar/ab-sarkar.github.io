@@ -15,3 +15,12 @@ div[class*="prose"] {
     margin-right: auto !important;
     font-size: 0.9rem !important;
 }
+
+/* 3. Force Publications container to stretch to full screen width */
+#publications, 
+#papers,
+#publications > div,
+#papers > div,
+.pub-list-item {
+    max-width: 100% !important;
+}
