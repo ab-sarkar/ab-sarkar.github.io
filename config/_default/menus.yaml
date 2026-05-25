@@ -26,7 +26,7 @@ main:
     url: experience/
     weight: 20
   - name: Recent & Upcoming Talks
-    url: '#talks'
+    url: talks/
     weight: 30
   #- name: Projects
   #  url: projects/
