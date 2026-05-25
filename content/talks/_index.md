@@ -1,5 +1,9 @@
-  - block: collection
-    id: talks
+---
+sections:
+  - block: markdown
+    id: courses
     content:
-      title: Recent & Upcoming Talks
-      text: "Coming soon"
+      title: Courses
+      text: |
+        * Coming soon
+---
