@@ -16,4 +16,12 @@ div[class*="prose"] {
     font-size: 0.9rem !important;
 }
 
+/* 3. Force Publication lists and citation views to stretch completely */
+.block-collection div[class*="max-w-"],
+.view-citation,
+.view-citation div,
+.stream-item {
+    max-width: 100% !important;
+}
+
 
