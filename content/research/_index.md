@@ -21,6 +21,8 @@ sections:
           #research .prose { max-width: 120% !important; }
         </style>
         My research explores fundamental information-theoretic questions for physical systems, spanning both the classical and quantum regimes. I try to provide simple answers to questions about communication, storage, and computation in such physical systems, employing the universal language of mathematics. 
+        * ** Research Areas:** *
+
 
         * **Message Identification:** Introduced by Rudolf Ahlswede and Gunter Dueck in 1989, message identification is a communication paradigm where the receiver does not need to decode the exact transmitted data. Instead, the receiver only performs a binary check to determine whether a specific, predetermined message of interest was sent or not. The significance of studying this process lies in its remarkable efficiency: it allows the number of possible messages to grow doubly exponentially with the channel block length, bypassing Shannon's traditional single exponential capacity limit. This revolutionary capability makes message identification highly valuable for large-scale applications like alerting systems, targeted advertising, and database search protocols where full data decoding is unnecessary.
         <img src="/id.png" alt="Message Identification Diagram" style="display: block; margin: 0 auto; max-width: 80%; padding: 20px 0;">
