@@ -10,6 +10,9 @@ main:
   #- name: Education
    # url: education/
    # weight: 11
+  - name: Research
+    url: research/
+    weight: 11
   - name: Publications
     url: publications/
     weight: 12
